@@ -1,0 +1,14 @@
+{
+  "$id": "c_openingTimes",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Opening times",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

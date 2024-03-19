@@ -1,0 +1,65 @@
+{
+  "$id": "c_pagesCategories",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Holds the pages specific categories (category 1)",
+  "displayName": "Pages Categories",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "maxLength": 2000,
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "Carbon dioxide",
+              "textValue": "CARBON_DIOXIDE"
+            },
+            {
+              "displayName": "Dry Ice",
+              "textValue": "DRY_ICE_SUPPLIER"
+            },
+            {
+              "displayName": "Equipment",
+              "textValue": "EQUIPMENT"
+            },
+            {
+              "displayName": "Even-exchange cylinders",
+              "textValue": "EVEN-EXCHANGE_CYLINDERS"
+            },
+            {
+              "displayName": "Industrial Gas",
+              "textValue": "INDUSTRIAL_GASES"
+            },
+            {
+              "displayName": "Liquid Nitrogen",
+              "textValue": "LIQUID_NITROGEN"
+            },
+            {
+              "displayName": "Medical Gases",
+              "textValue": "MEDICAL_GASES"
+            },
+            {
+              "displayName": "Offshore",
+              "textValue": "OFFSHORE"
+            },
+            {
+              "displayName": "Propane",
+              "textValue": "PROPANE"
+            },
+            {
+              "displayName": "Refrigerants",
+              "textValue": "REFRIGERANTS"
+            },
+            {
+              "displayName": "Sparkling water machines",
+              "textValue": "SPARKLING_WATER_MACHINES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

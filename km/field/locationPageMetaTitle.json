@@ -1,0 +1,14 @@
+{
+  "$id": "c_locationPageMetaTitle",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Location Page Meta Title",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

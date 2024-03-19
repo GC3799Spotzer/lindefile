@@ -1,0 +1,14 @@
+{
+  "$id": "c_aboutLindeBody",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "About Linde Body",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

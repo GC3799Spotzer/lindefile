@@ -1,0 +1,15 @@
+{
+  "$id": "c_aboutLindePhoto",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "About Linde Photo",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "imageType": {
+      "isSimpleImage": true,
+      "unconstrainedAspectRatioAllowed": true,
+      "noAllowedAspectRatios": true
+    }
+  },
+  "typeId": "image"
+}

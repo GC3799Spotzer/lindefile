@@ -1,0 +1,35 @@
+{
+  "$id": "c_salesChannel",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Stores the Sales channel (category 2)",
+  "displayName": "Sales Channel",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "optionType": {
+      "option": [
+        {
+          "displayName": "Delivering agent",
+          "textValue": "DELIVERING_AGENT"
+        },
+        {
+          "displayName": "Gas 24/7",
+          "textValue": "GAS_24/7"
+        },
+        {
+          "displayName": "Pick-Up agent",
+          "textValue": "PICK-UP_AGENT"
+        },
+        {
+          "displayName": "Propane Vending Machine",
+          "textValue": "PROPANE_VENDING_MACHINE"
+        },
+        {
+          "displayName": "Reseller",
+          "textValue": "RESELLER"
+        }
+      ]
+    }
+  },
+  "typeId": "option"
+}

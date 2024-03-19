@@ -1,0 +1,8 @@
+{
+  "$id": "c_aboutLindeCTA",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "About Linde CTA",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "typeId": "cta"
+}

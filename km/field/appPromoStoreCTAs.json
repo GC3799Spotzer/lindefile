@@ -1,0 +1,21 @@
+{
+  "$id": "c_appPromoStoreCTAs",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "App Promo Store CTAs",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "listType": {
+      "typeId": "image",
+      "minLength": 2,
+      "maxLength": 2,
+      "type": {
+        "imageType": {
+          "noAllowedAspectRatios": true,
+          "unconstrainedAspectRatioAllowed": true
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

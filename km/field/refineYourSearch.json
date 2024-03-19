@@ -1,0 +1,14 @@
+{
+  "$id": "c_refineYourSearch",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Refine Your Search",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

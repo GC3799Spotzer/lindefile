@@ -1,0 +1,12 @@
+{
+  "$id": "c_launchOnListings",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Controls license assignment and listings launch.",
+  "displayName": "Launch on Listings",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "boolean"
+}

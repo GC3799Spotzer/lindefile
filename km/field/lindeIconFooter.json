@@ -1,0 +1,20 @@
+{
+  "$id": "c_lindeIconFooter",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Linde Icon Footer",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "image",
+      "maxLength": 500,
+      "type": {
+        "imageType": {
+          "noAllowedAspectRatios": true,
+          "unconstrainedAspectRatioAllowed": true
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "c_topHeader",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "TopHeader",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "links",
+          "displayName": "Links",
+          "isRequired": false,
+          "typeId": "list",
+          "type": {
+            "listType": {
+              "typeId": "c_cTA",
+              "maxLength": 5000
+            }
+          }
+        }
+      ]
+    }
+  }
+}
